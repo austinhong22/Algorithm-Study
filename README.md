@@ -9,9 +9,9 @@
 
 | 참여자        | 사용 언어               |
 | ------------- | ----------------------- |
-| [7aeHoon](https://github.com/7aeHoon)       | `Swift`            |
-| [austinhong22](https://github.com/austinhong22)   | `Python`                    |
-| [daskddo](https://github.com/daskddo)       | `Java`        |
+| [7aeHoon](https://github.com/7aeHoon)       | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)           |
+| [austinhong22](https://github.com/austinhong22)   | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)                    |
+| [daskddo](https://github.com/daskddo)       | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)        |
 
 --- 
 
