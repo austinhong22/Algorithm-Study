@@ -66,11 +66,7 @@
 
 ---
 
-## ✅ Branch & Commit & Pull Request 규칙
-- Branch
-    - main 브랜치와 참여자 브랜치로 구성
-    - 브랜치명은 깃허브 아이디로 작성
-        - `7aeHoon`
+## ✅ Commit & Pull Request 규칙
 
 - Commit Convention
     - 태그: 날짜 [플랫폼 문제번호] 문제이름 
