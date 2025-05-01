@@ -21,7 +21,7 @@ public class BOJ_1978 {
     public static boolean isPrime(int n) {
         if (n < 2) return false;
         // i * i 로 for문 최적화
-        for (int i = 2; i * i <= n; i++) {
+        for (int i = 2; i*i <= n; i++) {
             if (n % i == 0) return false;
         }
         return true;
