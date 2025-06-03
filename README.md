@@ -13,6 +13,8 @@
 | [austinhong22](https://github.com/austinhong22)   | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)                    |
 | [daskddo](https://github.com/daskddo)       | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)        |
 
+> 참여자 daskddo 4주차에 중도 하차. 사유: 취업
+
 --- 
 
 ## 📅 스터디 일정 및 진행 방식
